@@ -1,0 +1,1 @@
+使用init.sh生成stm32的文件目录结构，以及编译的build.sh,clean.sh 
